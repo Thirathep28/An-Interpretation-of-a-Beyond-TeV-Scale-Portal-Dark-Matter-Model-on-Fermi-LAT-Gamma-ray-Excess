@@ -12,7 +12,10 @@ HDMSpectra: https://github.com/NOMspectra/NOMspectra
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-Data and Methodology
+# Data and Methodology
+
+The software is in the **TeV-DM-Excess** directory.
+
 The software follows a step-by-step approach to analyze potential dark matter signals:
 
 1. Fermi-LAT Excess Data: This section retrieves excess gamma-ray data from Fermi-LAT, which is stored within the project directory. Two versions are provided: fermi_excess (unfiltered) and fermi_excess_reduced (filtered for outliers). You can choose the data that best suits your analysis needs.
