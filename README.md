@@ -1,7 +1,6 @@
-# Senior-Project
+# An Interoretation of a Beyond-TeV-Scale Portal ark Mtter Model on Fermi-LAT Gamma-ray Excess (2024)
 
-Thirathep N. Phiankham
-"An Interoretation of a Beyond-TeV-Scale Portal ark Mtter Model on Fermi-LAT Gamma-ray Excess" (2024)
+Thirathep N. Phiankham \
 Contact: thirathep.ph@protonmail.com
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
